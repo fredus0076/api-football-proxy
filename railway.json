@@ -1,0 +1,4 @@
+{
+  "healthcheckPath": "/",
+  "restartPolicyType": "ON_FAILURE"
+}
